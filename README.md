@@ -58,7 +58,7 @@ This is a **scan tool for awareness**, not a full security suite.
 
 ## 📦 Files in This Repo
 
-- `TechAV.shortcut` – The shortcut file you can install
+- `TechAV` – The iCloud Shortcut link 
 - `README.md` – You're reading it 🙂
 - *(Optional)* `screenshots/` – Preview images (if included)
 
