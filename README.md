@@ -66,7 +66,7 @@ This is a **scan tool for awareness**, not a full security suite.
 
 ## 🧑‍💻 Author
 
-Made by **Vlad Zapor**  
+Made by **VladutzzTech**  
 If you like it, give this repo a ⭐ and share it with friends!
 
 ---
